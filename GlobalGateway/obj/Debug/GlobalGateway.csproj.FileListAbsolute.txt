@@ -1,0 +1,17 @@
+c:\users\saptadellpc\documents\visual studio 2015\Projects\GlobalGateway\GlobalGateway\obj\Debug\GlobalGateway.csprojResolveAssemblyReference.cache
+c:\users\saptadellpc\documents\visual studio 2015\Projects\GlobalGateway\GlobalGateway\bin\GlobalGateway.dll.config
+c:\users\saptadellpc\documents\visual studio 2015\Projects\GlobalGateway\GlobalGateway\bin\GlobalGateway.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\GlobalGateway\GlobalGateway\bin\GlobalGateway.pdb
+c:\users\saptadellpc\documents\visual studio 2015\Projects\GlobalGateway\GlobalGateway\obj\Debug\GlobalGateway.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\GlobalGateway\GlobalGateway\obj\Debug\GlobalGateway.pdb
+H:\GlobalGateway\GlobalGateway\GlobalGateway\bin\GlobalGateway.dll.config
+H:\GlobalGateway\GlobalGateway\GlobalGateway\bin\GlobalGateway.dll
+H:\GlobalGateway\GlobalGateway\GlobalGateway\bin\GlobalGateway.pdb
+H:\GlobalGateway\GlobalGateway\GlobalGateway\obj\Debug\GlobalGateway.csprojResolveAssemblyReference.cache
+H:\GlobalGateway\GlobalGateway\GlobalGateway\obj\Debug\GlobalGateway.dll
+H:\GlobalGateway\GlobalGateway\GlobalGateway\obj\Debug\GlobalGateway.pdb
+D:\GlobalGateway\GlobalGateway\GlobalGateway\bin\GlobalGateway.dll.config
+D:\GlobalGateway\GlobalGateway\GlobalGateway\bin\GlobalGateway.dll
+D:\GlobalGateway\GlobalGateway\GlobalGateway\bin\GlobalGateway.pdb
+D:\GlobalGateway\GlobalGateway\GlobalGateway\obj\Debug\GlobalGateway.dll
+D:\GlobalGateway\GlobalGateway\GlobalGateway\obj\Debug\GlobalGateway.pdb
